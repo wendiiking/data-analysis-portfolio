@@ -14,7 +14,7 @@
 
 <br>
 
-<span style="color:green"> __Project :__  </span> [`SQL Capstone Project - Introduction to PostgreSQL`](sql-projects\\sql-capstone-project)
+<span style="color:green"> __Project :__  </span> [`SQL Capstone Project - Introduction to PostgreSQL`](sql-projects/sql-capstone-project)
 
 
 <span style="color:green"> __Description :__   </span> This project involves querying data from the DVD Rentals dataset to give insight to some specified questions.
@@ -40,7 +40,7 @@
 
 <br>
 
-<span style="color:green"> __Project :__  </span> [`SQL Case Study Project 1 - TBA`](TBA)
+<span style="color:green"> __Project :__  </span> [`SQL Case Study Project 1 - TBA`](sql-projects/sql-case-studies-24)
 
 
 <span style="color:green"> __Description :__   </span> TBA.
@@ -55,7 +55,7 @@
 
 <br>
 
-<span style="color:green"> __Project :__  </span> [`SQL Case Study Project 2 - TBA`](TBA)
+<span style="color:green"> __Project :__  </span> [`SQL Case Study Project 2 - TBA`](sql-projects/sql-case-studies-24)
 
 
 <span style="color:green"> __Description :__   </span> TBA.
@@ -75,7 +75,7 @@
 
 <br>
 
-<span style="color:green"> __Project :__  </span> [`Excel - Sheets projects - TBA`](TBA)
+<span style="color:green"> __Project :__  </span> [`Excel - Sheets projects - TBA`](excel-sheets-projects)
 
 
 <span style="color:green"> __Description :__   </span> TBA.
@@ -93,7 +93,7 @@
 
 <br>
 
-<span style="color:green"> __Project :__  </span> [`Python projects - TBA`](TBA)
+<span style="color:green"> __Project :__  </span> [`Python projects - TBA`](python-projects)
 
 
 <span style="color:green"> __Description :__   </span> TBA.
