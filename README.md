@@ -14,7 +14,7 @@
 
 <br>
 
-<span style="color:green"> __Project :__  </span> [`SQL Capstone Project - Introduction to PostgreSQL`](sql-projects\sql-capstone-project)
+<span style="color:green"> __Project :__  </span> [`SQL Capstone Project - Introduction to PostgreSQL`](sql-projects\\sql-capstone-project)
 
 
 <span style="color:green"> __Description :__   </span> This project involves querying data from the DVD Rentals dataset to give insight to some specified questions.
