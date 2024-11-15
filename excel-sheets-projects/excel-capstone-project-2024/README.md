@@ -1,4 +1,32 @@
+# Excel Project
 
+
+---
+
+### <span style="color:green"> __Excel Capstone Project__  </span>
+
+---
+
+
+<br>
+
+This capstone project was a good way to finalize all the learnings on
+
+  - Introduction to Excel
+  - Data entry
+  - Data cleaning
+  - Creating pivot tables
+  - Using conditional formatting
+  - The data set used was [Capstone Dataset.xlsx](https://github.com/user-attachments/files/17774504/Capstone.Dataset.xlsx)
+
+    
+<p align="center">
+
+
+</p>
+
+
+<br>
 
 Using Pivot tables and charts, perform the following tasks.
 1. Which Region raked in the most Revenue?
