@@ -28,6 +28,12 @@ This capstone project was a good way to finalize all the learnings on
 
 <br>
 
+---
+---
+
+## Questions
+---
+
 Using Pivot tables and charts, perform the following tasks.
 1. Which Region raked in the most Revenue?
 2. Who are the top five and bottom five Countries, based on profit?
