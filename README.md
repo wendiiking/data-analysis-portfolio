@@ -40,7 +40,7 @@
 
 <br>
 
-<span style="color:green"> __Project :__  </span> [`SQL Case Study Project 1 - TBA`](sql-projects/sql-case-studies-24)
+<span style="color:green"> __Project :__  </span> [`SQL Case Study Project 1 - Value Paints`](sql-projects/sql-case-studies-24)
 
 
 <span style="color:green"> __Description :__   </span> Creating a database for a paint company to help manage customer information and sales transactions
@@ -55,10 +55,10 @@
 
 <br>
 
-<span style="color:green"> __Project :__  </span> [`SQL Case Study Project 2 - TBA`](sql-projects/sql-case-studies-24)
+<span style="color:green"> __Project :__  </span> [`SQL Case Study Project 2 - Cuddle Foods`](sql-projects/sql-case-studies-24)
 
 
-<span style="color:green"> __Description :__   </span> Creating a database for a Cuddle Foods a food processing conglomerate to understand customer demographics and preference
+<span style="color:green"> __Description :__   </span> Creating a database for a food processing conglomerate to understand customer demographics and preferences
 
 <span style="color:green">  __Tech Stack :__  </span> SQL, PostgreSQL, PgAdmin
 
