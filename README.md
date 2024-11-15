@@ -50,6 +50,11 @@
 
 <span style="color:green"> __Skills:__  </span>  Business and Data understanding, Database Management, ETL, Querying Data, Data Analysis.
 
+<div style="text-align:center"><img width="768" alt="Case study 1 Q1" src="https://github.com/user-attachments/assets/ff561b01-3dac-446f-9e91-e070a17abbe2">
+
+
+
+
 ---
 ---
 
@@ -64,6 +69,9 @@
 
 
 <span style="color:green"> __Skills:__  </span>  Business and Data understanding, Database Management, ETL, Querying Data, Data Analysis.
+
+<div style="text-align:center"><img width="786" alt="Customer info code" src="https://github.com/user-attachments/assets/f17da6b6-5e0e-4d95-a8ea-db20862b6abc">
+
 
 ---
 ---
