@@ -6,7 +6,7 @@
 
 ## <span style="color:grey"> Dataset </span>
 ---
-This is a practice done with a small data called World Cities. The type of data is a structured data containing the average commute time, average temperature, happiness ranking of the major cities in the world.
+This is an analysis done on a small dataset called World Cities. The type of data is a structured data containing the average commute time, average temperature, happiness ranking of the major cities in the world.
 
 The Dataset used here is [world_cities.csv](https://github.com/user-attachments/files/17969993/world_cities.csv)
 
